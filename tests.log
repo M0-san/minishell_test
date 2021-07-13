@@ -48,3 +48,13 @@ EchO bonjour
 eCHo bonjour
 EcHo bonjour
 eChO bonjour
+Echo bonjour\n                                                                                                                                                   [FAIL]
+eCho bonjour\n                                                                                                                                                   [FAIL]
+ecHo bonjour\n                                                                                                                                                   [FAIL]
+echO bonjour\n                                                                                                                                                   [FAIL]
+EchO bonjour\n                                                                                                                                                   [FAIL]
+eCHo bonjour\n                                                                                                                                                   [FAIL]
+EcHo bonjour\n                                                                                                                                                   [FAIL]
+eChO bonjour\n 
+echo '''''''''''''''''''''''''''''''''''''''''''\n                                                                                                               [FAIL]
+echo """""""""""""""""""""""""""""""""""""""""""\n   
