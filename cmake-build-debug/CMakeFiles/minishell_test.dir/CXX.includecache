@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/moboustt/CLionProjects/minishell_test/main.cpp
+iostream
+-
+cstdio
+-
+memory
+-
+stdexcept
+-
+string
+-
+array
+-
+
