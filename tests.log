@@ -33,8 +33,10 @@ echo -n lalalala                lalalalal      alalalalal alalalala
 echo -n "" + Config.lorem
 echo bonjour -n
 echo -n bonjour -n
+echo "" "" '""' """" hehheh "$HOME $ff     || || \||| \|||| <<<<, .>>>> ,< > ; : 3333^&%^&*Y*("
 echo                     bonjour             je
 echo       -n            bonjour             je
+echo "" "" '""' """" hehheh'eifufiwufih'"ufiuf"'"""HAHAHA"""'
 echo a '' b '' c '' d
 echo a "" b "" c "" d
 echo -n a '' b '' c '' d
@@ -48,13 +50,32 @@ EchO bonjour
 eCHo bonjour
 EcHo bonjour
 eChO bonjour
-Echo bonjour\n                                                                                                                                                   [FAIL]
-eCho bonjour\n                                                                                                                                                   [FAIL]
-ecHo bonjour\n                                                                                                                                                   [FAIL]
-echO bonjour\n                                                                                                                                                   [FAIL]
-EchO bonjour\n                                                                                                                                                   [FAIL]
-eCHo bonjour\n                                                                                                                                                   [FAIL]
-EcHo bonjour\n                                                                                                                                                   [FAIL]
-eChO bonjour\n 
-echo '''''''''''''''''''''''''''''''''''''''''''\n                                                                                                               [FAIL]
-echo """""""""""""""""""""""""""""""""""""""""""\n   
+Echo bonjour
+eCho bonjour
+ecHo bonjour
+echO bonjour
+EchO bonjour
+eCHo bonjour
+EcHo bonjour
+eChO bonjour
+echo '''''''''''''''''''''''''''''''''''''''''''' Sono nawa Eren Yeager
+echo """""""""""""""""""""""""""""""""""""""""""" Sono nawa Eren Yeager
+echo ~5tetdc
+echo ~+/iefhihiu
+echo ~+
+echo ~/MAMOUSSA
+echo ~/foo
+echo ~+/foo
+echo ~-/foo
+echo "$a"
+echo "'$a'"
+echo '"$a"'
+echo "red$arocks"
+echo "redapple$"
+echo "*"
+echo '${arr[0]}'
+echo $'$a\'
+echo "$'\t'"
+echo '!cmd'
+echo "!cmd"	cmd args
+echo $'!cmd'
