@@ -1,0 +1,50 @@
+echo    $TEST lol $TEST
+echo "$?TEST"
+echo test         test
+echo "test"
+echo $TEST
+echo "$TEST"
+echo '$TEST'
+echo "$TEST$TEST$TEST"
+echo "$TEST$TEST=lol$TEST"
+echo "   $TEST lol $TEST"
+echo $TEST$TEST$TEST
+echo $TEST$TEST=lol$TEST""lol
+echo test "" test "" test
+echo "$TEST"
+echo "$=TEST"
+echo "$"
+echo $TEST $TEST
+echo "$1TEST"
+echo "$T1TEST"
+echo "$T $f $sss $HOME"
+echo "$T$f$sss$HOME"
+echo "USER IS$USER"
+echo "$? $FFFFF $SHLLVL"'$HOME''WUUUUU'
+echo
+echo bonjour
+echo lalalala lalalalal alalalalal alalalala
+echo lalalala                lalalalal      alalalalal alalalala
+echo "" + Config.lorem
+echo -n
+echo -n bonjour
+echo -n lalalala lalalalal alalalalal alalalala
+echo -n lalalala                lalalalal      alalalalal alalalala
+echo -n "" + Config.lorem
+echo bonjour -n
+echo -n bonjour -n
+echo                     bonjour             je
+echo       -n            bonjour             je
+echo a '' b '' c '' d
+echo a "" b "" c "" d
+echo -n a '' b '' c '' d
+echo -n a "" b "" c "" d
+echo '' '' ''
+Echo bonjour
+eCho bonjour
+ecHo bonjour
+echO bonjour
+EchO bonjour
+eCHo bonjour
+EcHo bonjour
+eChO bonjour
