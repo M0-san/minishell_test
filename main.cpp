@@ -37,6 +37,8 @@ std::string exec(std::string const &input)
 
 int main()
 {
+	std::vector<int> v{};
+	auto end = v.end();
 #if (1)
 	const char *filename = "tests.log";
 	std::ifstream in;
@@ -56,7 +58,7 @@ int main()
 		std::string bash_out = exec(ss2.str());
 		std::cout << "{ " << line << " }" << ' ';
 
-		std::cout << std::setw(100 - strlen(line.c_str())) <<
+		std::cout << std::setw(150 - strlen(line.c_str())) <<
 		(minishell_out == bash_out ? "\033[1;32m [ AC ]\033[0m\n" : "\033[1;31m [ WA ]\033[0m\n");
 #endif
 	}

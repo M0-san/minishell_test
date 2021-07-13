@@ -1,0 +1,37 @@
+exit 42 53 68
+echo    $TEST lol $TEST
+echo "$?TEST"
+echo test         test
+echo "test"
+echo $TEST
+echo "$TEST"
+echo '$TEST'
+echo "$TEST$TEST$TEST"
+echo "$TEST$TEST=lol$TEST"
+echo "   $TEST lol $TEST"
+echo $TEST$TEST$TEST
+echo $TEST$TEST=lol$TEST""lol
+echo test "" test "" test
+echo "$TEST"
+echo "$=TEST"
+echo "$"
+echo $TEST $TEST
+echo "$1TEST"
+echo "$T1TEST"
+echo "$T $f $sss $HOME"
+echo "$T$f$sss$HOME"
+echo "USER IS$USER"
+echo "$? $FFFFF $SHLLVL"'$HOME''WUUUUU
+exit 42
+exit 259
+exit 9223372036854775807
+exit -9223372036854775808
+exit 9223372036854775808
+exit -9223372036854775810
+exit -4
+exit wrong
+exit wrong_command
+gdagadgag
+ls -Z
+cd gdhahahad
+ls -la | wtf

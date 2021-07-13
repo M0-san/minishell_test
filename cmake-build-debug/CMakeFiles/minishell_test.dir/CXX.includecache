@@ -15,8 +15,16 @@ memory
 -
 stdexcept
 -
+array
+-
 string
 -
-array
+vector
+-
+sstream
+-
+fstream
+-
+cstring
 -
 
